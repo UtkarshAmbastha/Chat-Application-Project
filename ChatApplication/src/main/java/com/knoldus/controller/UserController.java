@@ -1,4 +1,4 @@
-package com.example.controller;
+package com.knoldus.controller;
 
 public class UserController {
 }
